@@ -1,6 +1,6 @@
 # LXD/LXC Local Privilege Escalation
 
-This script allows to vertically escalate privilege on linux machines with current user in group [lxd/lxc](https://linuxcontainers.org/lxd/) group.
+This script allows to vertically escalate privilege on linux machines with current user in [lxd/lxc](https://linuxcontainers.org/lxd/) group.
 
 ## Usage
 
